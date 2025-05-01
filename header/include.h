@@ -1,0 +1,12 @@
+#include"Dxlib.h"
+#include<iostream>
+#include<algorithm>
+#include<string.h>
+#include<vector>
+#include<math.h>
+#include<stack>
+#include<queue>
+#include<map>
+#include<stdio.h>
+#include<cmath>
+#include<time.h>
